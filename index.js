@@ -469,7 +469,7 @@ https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK
 https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
 
 ▢ ${msg.gp} 3
-https://chat.whatsapp.com/FSVDTytQxnTIPx8t8wBWeM
+https://chat.whatsapp.com/FE2jcUXTmOY0iKdPxtzQez
 
 ▢ *YouTube*
 • https://www.youtube.com/fg98f
