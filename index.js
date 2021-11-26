@@ -518,9 +518,9 @@ case 'lang':
 case 'creator':
 case 'creador': 
 case 'developer':
-number = '59172945992@s.whatsapp.net'
+number = '14065185537@s.whatsapp.net'
     capt = `▢ ${msg.num} : @${number.split('@')[0]}\n\n`
-    capt += '▢ Instagram : https://www.instagram.com/fg98._'
+    
     await Fg.fakeLink(from, capt, thumbfg, `${msg.click}`, 'https://www.instagram.com/fg98._', mek)
    /* Fg.sendContact(from, '59172945992', 'owner', {
 	 key: {
